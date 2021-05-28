@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbe6d3f7.chunk.css",
+    "main.js": "/static/js/main.0250e968.chunk.js",
+    "main.js.map": "/static/js/main.0250e968.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c0772d9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c0772d9.js.map",
+    "static/css/2.9282ecc3.chunk.css": "/static/css/2.9282ecc3.chunk.css",
+    "static/js/2.431f0ed8.chunk.js": "/static/js/2.431f0ed8.chunk.js",
+    "static/js/2.431f0ed8.chunk.js.map": "/static/js/2.431f0ed8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9282ecc3.chunk.css.map": "/static/css/2.9282ecc3.chunk.css.map",
+    "static/css/main.dbe6d3f7.chunk.css.map": "/static/css/main.dbe6d3f7.chunk.css.map",
+    "static/js/2.431f0ed8.chunk.js.LICENSE.txt": "/static/js/2.431f0ed8.chunk.js.LICENSE.txt",
+    "static/media/Drum Machine.bbbe22ae.png": "/static/media/Drum Machine.bbbe22ae.png",
+    "static/media/Random Quote.7850c42b.png": "/static/media/Random Quote.7850c42b.png",
+    "static/media/ToDo.93b7986c.png": "/static/media/ToDo.93b7986c.png",
+    "static/media/about.def8905f.jpg": "/static/media/about.def8905f.jpg",
+    "static/media/calculator.ba605194.png": "/static/media/calculator.ba605194.png",
+    "static/media/certificate1.bd1552ff.png": "/static/media/certificate1.bd1552ff.png",
+    "static/media/certificate2.2ba0c9ca.png": "/static/media/certificate2.2ba0c9ca.png",
+    "static/media/certificate3.7cb30ab6.png": "/static/media/certificate3.7cb30ab6.png",
+    "static/media/form validation.483e1de5.png": "/static/media/form validation.483e1de5.png",
+    "static/media/library.f2c212d1.png": "/static/media/library.f2c212d1.png",
+    "static/media/markdown.1da6cc2f.png": "/static/media/markdown.1da6cc2f.png",
+    "static/media/notes.dbb0852d.png": "/static/media/notes.dbb0852d.png",
+    "static/media/postmaster.f5855201.png": "/static/media/postmaster.f5855201.png",
+    "static/media/product.a34d07d1.jpg": "/static/media/product.a34d07d1.jpg",
+    "static/media/profile.1d62ea7b.jpg": "/static/media/profile.1d62ea7b.jpg",
+    "static/media/resume.22d4f8cc.jpg": "/static/media/resume.22d4f8cc.jpg",
+    "static/media/survey.8a853ca1.jpg": "/static/media/survey.8a853ca1.jpg",
+    "static/media/technical.2d78d9a5.jpg": "/static/media/technical.2d78d9a5.jpg",
+    "static/media/tribute.d4cd5a96.jpg": "/static/media/tribute.d4cd5a96.jpg",
+    "static/media/weather.cb75961e.png": "/static/media/weather.cb75961e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c0772d9.js",
+    "static/css/2.9282ecc3.chunk.css",
+    "static/js/2.431f0ed8.chunk.js",
+    "static/css/main.dbe6d3f7.chunk.css",
+    "static/js/main.0250e968.chunk.js"
+  ]
+}
