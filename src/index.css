@@ -1,13 +1,167 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@800&display=swap');
+
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+}
+.spinner{
+	text-align: center;
+	background-color: rgb(38, 38, 49);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100vh;
+	padding-right:5rem;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+img{
+	border-radius: 18px;
 }
+
+/*
+  ========================================
+	Navbar
+  ========================================
+*/
+
+.menu_active{
+  font-weight: bold;
+  border-bottom: 4px solid lightgray; 
+}
+
+/*
+  ========================================
+	Home
+	background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+	background: hsla(16, 100%, 76%, 1);
+
+background: linear-gradient(90deg, hsla(16, 100%, 76%, 1) 0%, hsla(49, 100%, 81%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(16, 100%, 76%, 1) 0%, hsla(49, 100%, 81%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(16, 100%, 76%, 1) 0%, hsla(49, 100%, 81%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFA585", endColorstr="#FFEDA0", GradientType=1 );
+  ========================================
+*/
+.profile{
+background: #ffa585;
+background: linear-gradient(90deg, hsla(16, 100%, 76%, 1) 0%, hsla(49, 100%, 81%, 1) 100%);
+background: -moz-linear-gradient(90deg, hsla(16, 100%, 76%, 1) 0%, hsla(49, 100%, 81%, 1) 100%);
+background: -webkit-linear-gradient(90deg, hsla(16, 100%, 76%, 1) 0%, hsla(49, 100%, 81%, 1) 100%);
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFA585", endColorstr="#FFEDA0", GradientType=1 );
+font-family: 'Mulish', sans-serif;
+}
+
+.profile-button{
+  width: 130px;
+}
+
+/*
+  ========================================
+	Footer
+  ========================================
+*/
+
+.footer{
+  border-top:3px solid red;
+}
+
+.icon_1{
+	text-align: center;
+	transition: 2s;
+	cursor: pointer;
+	outline: none;
+	color: #2867B2;
+	background-color: #fff;
+  }
+
+  .icon_1:hover{
+	background-color: #4681c9;
+   	color:#fff;
+	transform: scale(1.3);
+  }
+  
+  .icon_2{
+	text-align: center;
+	transition: 2s;
+	cursor: pointer;
+	outline: none;
+	color: #000000;
+	background-color:  #fff
+  }
+
+  .icon_2:hover{
+	background-color: #000;
+	color: #fff;
+	transform: scale(1.3);
+  }
+  
+  .icon_3{
+	text-align: center;
+	transition: 2s;
+	cursor: pointer;
+	outline: none;
+	color: #C13584;
+	background-color:  #fff;
+  }
+
+  .icon_3:hover{
+	color: #fff;
+	background-color:  #C13584;
+	transform: scale(1.3);
+  }
+  
+  .icon_4{
+	text-align: center;
+	transition: 2s;
+	cursor: pointer;
+	outline: none;
+	color: #55acee;
+	background-color:  #fff;
+  }
+  
+  .icon_4:hover{
+	color: #fff;
+	background-color:  #55acee;
+	transform: scale(1.3);
+  }
+  
+  /*
+  ========================================
+	Project
+  ========================================
+*/
+
+.project_img{
+  transition: 1s;
+  cursor: pointer;
+}
+.project_img:hover{
+  transform: scale(1.1);
+}
+
+
+
+
+
+
+/* 
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+	  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+	  sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+	  monospace;
+  } */
